@@ -1,2 +1,2 @@
 # Artix-Rice
-Dots files.
+Dot files.
